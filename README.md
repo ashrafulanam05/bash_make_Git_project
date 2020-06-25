@@ -1,2 +1,2 @@
 
-All: makefile
+all: makefile
